@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💫 About Me:
+Atualmente, estou em busca de uma oportunidade de estágio na área de front-end. Já possuo conhecimentos em linguagens como HTML, CSS e Javascript, além de estar estudando React, uma das tecnologias mais utilizadas para criação de interfaces web. <br>Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no IFSP da cidade de São Carlos, <br>o que me proporcionou uma base sólida em programação e desenvolvimento de software. <br>Estou entusiasmada em aplicar meus conhecimentos em um ambiente profissional e contribuir para projetos de qualidade.
 
-<!--
-**NoahRissatti/NoahRissatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-rissatti) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NoahRissatti&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NoahRissatti&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahRissatti&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
